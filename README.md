@@ -104,8 +104,8 @@ Data is typically refreshed **every 24 hours** based on the source update.
 ## 📷 Dashboard Preview
 
 ```
-Current Price Dashboard.png
-Market cap Dashboard.png
+Dashboards/Current Price Dashboard.png
+Dashboards/Market cap Dashboard.png
 ```
 
 ---
